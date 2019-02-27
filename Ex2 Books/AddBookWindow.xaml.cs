@@ -16,7 +16,7 @@ using System.Windows.Shapes;
 namespace Ex2_Books
 {
     /// <summary>
-    /// Interaction logic for AddExpenseWindow.xaml
+    /// Interaction logic for AddBookWindow.xaml
     /// </summary>
     public partial class AddBookWindow : Window
     {

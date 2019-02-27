@@ -10,7 +10,7 @@
     <Grid>
         <Label Content="this is the add book window" HorizontalAlignment="Left" Margin="177,10,0,0" VerticalAlignment="Top"/>
         <Label Content="Book Genre" HorizontalAlignment="Left" Margin="126,89,0,0" VerticalAlignment="Top"/>
-        <Label Content="Expense Title" HorizontalAlignment="Left" Margin="126,158,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.095,-0.315"/>
+        <Label Content="Book Title" HorizontalAlignment="Left" Margin="126,158,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.095,-0.315"/>
         <Label Content="Date Published" HorizontalAlignment="Left" Margin="126,224,0,0" VerticalAlignment="Top"/>
         <ComboBox x:Name="cbxGenre" HorizontalAlignment="Left" Margin="284,93,0,0" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="tbxTitle" HorizontalAlignment="Left" Height="23" Margin="284,162,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
